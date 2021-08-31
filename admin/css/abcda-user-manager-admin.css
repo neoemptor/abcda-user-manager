@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ div#wpcontent {
+    background-color: white;
+    opacity: 1;
+    background-size: 7px 7px;
+    background-image: repeating-linear-gradient(45deg, #eee 0, #eee 1px, #fff 0, #fff 25%);
+ }
